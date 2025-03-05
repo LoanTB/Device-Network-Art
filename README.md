@@ -2,6 +2,9 @@
 
 This project is a network artistic simulation built using Python and Pygame. It visualizes multiple devices moving within a defined space, sending and receiving data packets. The simulation models device movement, data transmission, and interactions between devices, providing an engaging tool for exploring network dynamics and data flow in a visual and interactive environment.
 
+![image](https://github.com/user-attachments/assets/a78fc51d-5688-4d56-b775-3c276bac301b)
+
+
 ## Requirements
 
 - **Python 3.x**
