@@ -14,27 +14,6 @@ This project is a network artistic simulation built using Python and Pygame. It 
   pip install pygame
   ```
 
-## How to Run
-
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/LoanTB/Device-Network-Art.git
-    cd Device-Network-Art
-    ```
-
-2. **Install Pygame if not already installed**:
-
-    ```bash
-    pip install pygame
-    ```
-
-3. **Run the simulation**:
-
-    ```bash
-    python main.py
-    ```
-
 ## Simulation Controls
 
 - **Left Mouse Button**: Click and drag to pan the camera across the simulation space.
